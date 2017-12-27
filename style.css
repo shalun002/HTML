@@ -1,10 +1,14 @@
+body{
+    background-size: contain;
+}
+
 #wrapper{
     margin: 0 auto;
     outline: 1px solid #787274;
     padding: 10px;
     width: 900px;
-
 }
+
 #header{
     background-color: #25B33f;
     background-image: url(images.png);
